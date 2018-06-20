@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">ดาวน์โหลด MP3</string>
+    <string name="market_url">com.euroasiamp3.th</string>
+    <string name="footer_message">คุณกำลังใช้ โปรแกรม เวอร์ชั่น 1.0.6</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        การใช้งานที่ได้รับอนุญาตอย่างเป็นทางการของซอฟต์แวร์นี้ถูกจำกัด เฉพาะไฟล์เสียงที่มีอยู่ในโดเมนสาธารณะเท่านั้น คุณตกลงที่จะใช้ซอฟต์แวร์นี้ได้ในข้อกำหนดและกรอบความตกลงตามที่ระบุไว้ตามกฎหมายของประเทศที่พำนักของคุณ Google Android Market และเงื่อนไขการให้บริการ ซอฟแวร์อาจเข้าไปเกี่ยวกับเครื่องมือค้นหาทั่วไปและ EuroAsia สิงคโปร์จะไม่รับผิดชอบต่อในกรณีของการใช้งานที่ไม่ถูกต้อง  การใช้งานที่ผิดกฎหมายของเครื่องมือนี้เป็นสิ่งที่ไม่อนุญาต คุณต้องรับผิดชอบต่อการกระทำของคุณ
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">ชมวิดีโอ</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">ค้นหา</string>
+    <string name="btn_topten_name">เพลงยอดนิยม</string>
+    <string name="btn_downloads_name">ดาวน์โหลด</string>
+    <string name="btn_rate_name">ให้คะแนน</string>
+    <string name="btn_share_name">แบ่งปัน</string>
+    <string name="btn_cancel_name">ยกเลิก</string>
+    <string name="download_song">ดาวน์โหลดเพลง</string>
+    <string name="share_song">แบ่งปันเพลง</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">ใส่เพลงหรือศิลปิน</string>
+    
+    <!-- Names -->
+    <string name="no_results">ไม่พบผลลัพธ์ที่คุณค้นหา</string>
+    <string name="error_results">พบข้อผิดพลาดในการโหลดผลลัพธ์</string>
+    <string name="no_active">พบว่าคุณไม่ได้มีการเชื่อมต่ออินเทอร์เน็ตที่ใช้งานได้ หรือสัญญาณอ่อน กรุณาเปิด wifi หรือการรับข้อมูลของคุณและลองอีกครั้ง</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">สำรวจเพลงนี้</string>
+    <string name="dlmessage">ดาวน์โหลดเพลงนี้กันเถอะ:)</string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">การดาวน์โหลดเพลงล้มเหลว กรุณาลองใหม่อีกครั้ง</string>
+    <string name="addedqueue">เพิ่มการดาวน์โหลดรอไว้แล้ว</string>
+</resources>
